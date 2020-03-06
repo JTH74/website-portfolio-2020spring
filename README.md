@@ -20,7 +20,7 @@ For a minimum grade of B, all projects for this unit must:
 * Use arrangement, size, color, visual rhythm, and/or contrast to focus viewers' attention.
 * Include at least three navigable html locations
 * Have a clear mode of navigation among the pages
-* Include at least one css stylesheet
+* Include at least one sitewide css stylesheet (i.e. an organized theme)
 * Include at least one legally useable image, with alt text
 * Successfully display locally in a web browser
 * Argue in reflection why you did what you did
@@ -28,11 +28,18 @@ For a minimum grade of B, all projects for this unit must:
 **Aspirational inspirations**
 To target (but not guarantee) a grade above a B, the best projects for this unit may...
 
-* Use Github Pages to load publicly over the Internet
-* Use Jekyll (built into GitHub Pages) to deploy html templates and variables, which can help minimize repetition
-* Use best practices for accessible design to build in features (like screen-reader-only navigation) as checked by the [WAVE web accessibility evaluation tool](http://wave.webaim.org/)
+* Load site publicly over the internet (e.g. with GitHub Pages)
+* Use Flexbox or Grid layouts
+* Use responsive design to dynamically resize elements based on screen width
+* Use advanced navigation, like drop-down menus, tabs, or a sticky nav bar
+* Use Jekyll (built into GitHub Pages; see [Resources page](https://benmiller314.github.io/cdm2020spring/resources#web-frameworks)) to deploy html templates and variables, which can help minimize repetition
+* Optimize image filetypes, resolutions, and file sizes for the web
+* Add interactivity via JavaScript (e.g. on-click events) or other ways to receive information from site visitors (e.g. mailto: links, forms)
+* Animate HTML elements via JavaScript (e.g. image carousel) or CSS (e.g. :hover events)
+* Include a loadable alternate stylesheet / theme (e.g. dark mode)
+* Make or modify your own graphics using GIMP, etc
+* Use best practices for accessible design (see [W3's Four Principles](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head) and the [WAVE web accessibility evaluation tool](http://wave.webaim.org))
 * Use best practices for responsive design (e.g. `@media` queries to resize elements for mobile vs desktop viewing)
-* Include a loadable alternative stylesheet, a la CSS Zen Garden
 
 
 ## Deadlines and products
